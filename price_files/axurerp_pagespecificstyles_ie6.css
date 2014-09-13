@@ -65,11 +65,6 @@
 
 * html .u34_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="price_files/u34_normal.png");
-}
-
-* html .u36_normal {
-    background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="navagator_files/u53_normal.png");
 }
 

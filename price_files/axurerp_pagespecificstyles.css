@@ -511,7 +511,7 @@ div {
     position:absolute;
     left:95px;
     top:102px;
-    width:216px;
+    width:265px;
     height:36px;
     ;
     ;
@@ -522,44 +522,10 @@ div {
 }
 
 .u34_normal {
-    background-image: url('../price_files/u34_normal.png');
-}
-
-.u34_container {
-    position:absolute;
-    left:35px;
-    top:176px;
-    width:691px;
-    height:356px;
-}
-
-#u34_img {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:691px;
-    height:356px;
-}
-
-.u35 {
-    position:absolute;
-    left:2px;
-    top:170px;
-    width:687px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u36_normal {
     background-image: url('../navagator_files/u53_normal.png');
 }
 
-.u36_container {
+.u34_container {
     position:absolute;
     left:748px;
     top:172px;
@@ -567,7 +533,7 @@ div {
     height:800px;
 }
 
-#u36_img {
+#u34_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -575,7 +541,7 @@ div {
     height:806px;
 }
 
-.u37 {
+.u35 {
     position:absolute;
     left:2px;
     top:392px;
